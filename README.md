@@ -7,3 +7,9 @@ Use the Automated Test Decision Framework tool to identify the highest-value com
 ## License
 Licensed under the Apache License, Version 2.0 <BR/>
 Refer to License.txt for more information
+
+## Publications
+https://ieeexplore.ieee.org/document/8728916
+Evaluating a Test Automation Decision Support Tool
+2019 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+IEEE, April 2019
